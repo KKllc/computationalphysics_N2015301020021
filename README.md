@@ -7,4 +7,5 @@
   正文：http://note.youdao.com/noteshare?id=229a1381dcdc1ccdf717367c6920884a
   结论：效果图https://github.com/KKllc/computationalphysics_N2015301020021/blob/master/8K_%40F26ENMYL_7M(6(JEKMQ.png
    https://github.com/KKllc/computationalphysics_N2015301020021/blob/master/QQ%E5%9B%BE%E7%89%8720170922205341.png
-       
+       https://github.com/KKllc/computationalphysics_N2015301020021/blob/master/QWCB(6M%5DQ41B%2540NLV%7D4Y)K.png
+          致谢：刘庆康同学
