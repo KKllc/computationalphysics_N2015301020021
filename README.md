@@ -9,3 +9,4 @@
 https://github.com/KKllc/computationalphysics_N2015301020021/blob/master/QQ%E5%9B%BE%E7%89%8720170922205341.png
        https://github.com/KKllc/computationalphysics_N2015301020021/blob/master/QWCB(6M%5DQ41B%2540NLV%7D4Y)K.png
           致谢：刘庆康同学
+# 第三次作业：https://github.com/KKllc/computationalphysics_N2015301020021/blob/master/exercise3.md
