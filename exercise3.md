@@ -24,5 +24,6 @@ while 0.0<=t<=10.0:
     print('t=',t,  'v=',v,  'x=',x)
     #输出速度，位移及对应时刻
  ```
-## 结论  
+ 这里是代码链接https://github.com/KKllc/computationalphysics_N2015301020021/blob/master/velocity%2Bdistance.py
+## 结论 
  整个过程计算得出的v与预期完全一致，得出的x则在t较小时有较大的相对误差，到t接近10时误差已经较小，若将h取的更小或t取的更大，结果会更接近。
