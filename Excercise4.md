@@ -5,4 +5,6 @@
 利用欧拉法得出不同时刻的炮弹x坐标与y坐标，并绘图，调整出射角度后，再绘图进行比较。
 ## 正文
 选定了40度到50度之间的一系列角度，45度落点最远与预期一样
-！[python]()
+！[效果图](https://github.com/KKllc/computationalphysics_N2015301020021/blob/master/Figure_1.png)  
+对应源代码（
+
