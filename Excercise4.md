@@ -6,8 +6,8 @@
 ## 正文
 选定了40度到50度之间的一系列角度，45度落点最远与预期一样
 [效果图](https://github.com/KKllc/computationalphysics_N2015301020021/blob/master/Figure_1.png)  
-对应源代码  
-'''  
+对应源代码  
+``` 
 import math
 import matplotlib.pyplot as plt
 g=9.8
@@ -35,7 +35,7 @@ plt.xlabel('x/m')
 plt.ylabel('y/m')
 plt.show()  
 
-'''
+```
 ## 总结  
 语言上的知识仍然匮乏，目前只能写到这种程度，很抱歉。。。
 
