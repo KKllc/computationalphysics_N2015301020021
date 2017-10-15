@@ -11,3 +11,5 @@ https://github.com/KKllc/computationalphysics_N2015301020021/blob/master/QQ%E5%9
           致谢：刘庆康同学
 # 第三次作业：  
 https://github.com/KKllc/computationalphysics_N2015301020021/blob/master/exercise3.md
+# 第四次作业  
+https://github.com/KKllc/computationalphysics_N2015301020021/blob/master/Excercise4.md
