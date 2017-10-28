@@ -25,7 +25,8 @@ FD=1.5
 FD=2.5
 ![](https://github.com/KKllc/computationalphysics_N2015301020021/blob/master/fd%3D2.5.png)  
 FD=4.0  
-![](
+![](https://github.com/KKllc/computationalphysics_N2015301020021/blob/master/fd%3D4.0.png)  
+在这里混沌与规律性现象交替出现了。
 
 源代码
 ```
