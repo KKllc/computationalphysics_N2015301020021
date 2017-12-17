@@ -14,4 +14,4 @@ https://github.com/KKllc/computationalphysics_N2015301020021/blob/master/QQ%E5%9
 ## [第五次作业](https://github.com/KKllc/computationalphysics_N2015301020021/blob/master/Excerise5.md)
 ## [第六次作业](https://github.com/KKllc/computationalphysics_N2015301020021/blob/master/Excerise6.md)
 ## [第八次作业](https://github.com/KKllc/computationalphysics_N2015301020021/blob/master/Excercise8.md)
-## [第九次作业](https://github.com/KKllc/computationalphysics_N2015301020021/blob/master/Excerise9.md)
+## [第九次作业（补）](https://github.com/KKllc/computationalphysics_N2015301020021/blob/master/Excerise9.md)
